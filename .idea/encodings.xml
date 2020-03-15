@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/gamemain" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gamemain/GameData.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gamemain/MainWindow.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gameobject" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gameobject/Bullet.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gameobject/GameObject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gameobject/Plane.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gameresource" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/gameresource/Explode.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gameresource/GameProperties.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gameresource/GameUtil.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/gameresource/Sound.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
